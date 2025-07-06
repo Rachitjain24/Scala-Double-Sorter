@@ -1,0 +1,5 @@
+Scala Time Measurements:
+Read:  7795 ms
+Sort:  2 ms
+Write: 28 ms
+--------------------------
